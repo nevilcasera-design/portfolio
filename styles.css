@@ -98,7 +98,7 @@ footer {
     flex: 1;
     /* Makes all boxes equal width */
     padding: 20px;
-    background-color: #f4f4f4;
+    background-color: #000000;
     border-radius: 8px;
 }
 
@@ -109,8 +109,8 @@ footer {
 }
 
 .card {
-    border: 2px solid black;
-    background-color: #c5cdd2;
+    border: 2px solid rgb(255, 255, 255);
+    background-color: #00070b;
 }
 .container {
     display: flex;
@@ -130,5 +130,8 @@ footer {
     text-align: center;
 }
 .about{
+    text-align: center;
+}
+.hd{
     text-align: center;
 }
